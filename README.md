@@ -1,2 +1,2 @@
-# CMPE2750_Template
-Use this template when creating your individual private repos.
+# CMPE2750 Wyatt James
+- Embedded system design repository for level project.
